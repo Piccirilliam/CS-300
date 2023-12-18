@@ -1,1 +1,11 @@
-# CS-300
+# CS-300 Andrew Piccirilli
+##What was the problem you were solving in the projects for this course?
+#The problem being solved in the projects for this course was creating Data structures for reading class prerequisites from a file then sorting and printing them for courses when searched through a menu.  
+##How did you approach the problem? Consider why data structures are important to understand.
+#I approached the problem, by doing a lot of searching into which data structures were best for which particular functions. Then I implemented the data structures I thought were most effective for the functions needing accomplished.  Data structures are important to understant, because there's essentially no major projects that don't require an understanding in their functions.  If you need to sort/store/search different types of data its important to know which data structures will best fit the needs you are trying to fill. 
+##How did you overcome any roadblocks you encountered while going through the activities or project?
+#I faced a lot of roadblocks on this project.  I read and participated in all content supplied through class, and also spent a solid amount of time on youtube/videos explaining the proper implementation of different data structures.
+##How has your work on this project expanded your approach to designing software and developing programs?
+#This project, has definitely opened my eyes.  I can't in good faith say it was easy to understand, but having an understanding of this material is going to be very important for any and all major projects I complete in the future.  I only knew basics before this class, and I feel there's so much more I can do now that I understand data structures.
+##How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+#My understanding prior to this class, didn't really make much sense in the form of code, when you consider(after understanding it) how much better using data structures can improve the functionality of the code you write, the way I was doing the same functions before seem very round about.  properly using data structures reduces the amount of code needed for the program to function, makes inline commenting easier as theres not as much going on, and is easier to maintain, because there isn't as much to fix if you need to update the program.
